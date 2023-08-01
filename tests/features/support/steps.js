@@ -1,6 +1,6 @@
 require('chromedriver');
 const Chrome = require('selenium-webdriver/chrome');
-const { webdriver, Builder, By } = require('selenium-webdriver');
+const { Builder, By } = require('selenium-webdriver');
 const assert = require('assert');
 const { BeforeAll,
     When,
