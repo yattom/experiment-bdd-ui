@@ -8,7 +8,7 @@
 - Healenium を使ってみる
 
 ## TODO
-- [ ] Vue.jsのフロントエンドを作る
+- [x] Vue.jsのフロントエンドを作る
   - [x] WSLにnodeをインストールする
     - [x] tar.xzをダウンロード
     - [x] ~/nodeに展開
@@ -16,6 +16,11 @@
   - [x] Vue.jsプロジェクトを作る
     - [x] npm init vue@latest 
     - [x] npm run devで動作確認
-- Cucumber.jsでHello Worldのテストを書く
-- Selenium 4でテストを動かす
+- [x] Cucumber.jsでHello Worldのテストを書く
+- [ ] Selenium 4でテストを動かす
+  - [x] selenium-webdriverインストール
+  - [x] chromedriverインストール
+  - [x] libnss3インストール
+  - [ ] steps.jsでWebDriverを利用する
+  - [ ] steps.jsを実装してテストを動かす
 - Healenium Proxyを挟む
