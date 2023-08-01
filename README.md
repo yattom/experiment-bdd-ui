@@ -21,6 +21,7 @@
   - [x] selenium-webdriverインストール
   - [x] chromedriverインストール
   - [x] libnss3インストール
+  - [x] WSL Ubuntuにchromeインストール
   - [ ] steps.jsでWebDriverを利用する
   - [ ] steps.jsを実装してテストを動かす
 - Healenium Proxyを挟む
